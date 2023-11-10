@@ -71,7 +71,7 @@ for i in range(9):
 print('\t0\t1 2 3 4 5 6 7 8 9')
 
 print("ЗАДАНИЕ 4")
-f=open("seqyence.py")
+f=open("seqyence.txt")
 cnt1=0
 cnt2=0
 for i in f:
